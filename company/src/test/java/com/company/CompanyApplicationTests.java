@@ -1,10 +1,10 @@
-package com.taco;
+package com.company;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TacoApplicationTests {
+class CompanyApplicationTests {
 
 	@Test
 	void contextLoads() {

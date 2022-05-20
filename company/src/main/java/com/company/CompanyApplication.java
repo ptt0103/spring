@@ -1,13 +1,13 @@
-package com.taco;
+package com.company;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TacoApplication {
+public class CompanyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TacoApplication.class, args);
+		SpringApplication.run(CompanyApplication.class, args);
 	}
 
 }
